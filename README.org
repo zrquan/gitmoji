@@ -1,0 +1,5 @@
+#+title: Gitmoji
+
+A simple package to help you insert Gitmoji.
+
+[[file:screenshot.png]]
